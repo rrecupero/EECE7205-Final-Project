@@ -3,7 +3,7 @@
 **EECE 7205 — High Performance Computing Final Project**
 Northeastern University | Spring 2026
 
-## Overview
+## Overview 
 
 This project compares four neural network architectures for predicting robot trajectories using the [NCLT dataset](http://robots.engin.umich.edu/nclt/) (University of Michigan North Campus Long-Term Vision and Lidar Dataset). Given 20 observed timesteps (2 seconds at 10 Hz), each model predicts the next 10 timesteps (1 second) of position and heading.
 
