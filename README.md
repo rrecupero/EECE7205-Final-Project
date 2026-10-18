@@ -25,7 +25,7 @@ The key contribution is a **physics-informed linear transformer** that predicts 
 | LSTM | 6.81 | 6.81 | — | — |
 | Transformer | 8.34 | 8.07 | 0.75 | — |
 | Linear Transformer | 2.93 | 3.09 | 2.11 | 102,942 |
-| Physics Linear Transformer | **0.085** | **0.156** | 3.23 | 102,292 |
+| Physics Linear Transformer | **0.085** | **0.156** | 2.36 | 102,292 |
 
 ## Repository Structure
 
