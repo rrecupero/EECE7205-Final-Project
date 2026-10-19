@@ -1,6 +1,6 @@
 # Physics-Informed Linear Transformer for Robot Trajectory Prediction
 
-**EECE 7205 — High Performance Computing Final Project**
+**EECE 7205 — Fundamentals of Computer Engineering Final Project**
 Northeastern University | 
 
 ## Overview 
